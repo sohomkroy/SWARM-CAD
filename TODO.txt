@@ -1,0 +1,3 @@
+1. Finish odometry wheels and mount to chassis
+2. Add bearing supports to prevent balls form falling out
+3. Finalize CAD and manufacture parts
